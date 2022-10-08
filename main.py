@@ -12,6 +12,7 @@
 #text = delete_words(text)
 #print(text)
 
+
 # 2
 # result = ' '.join(filter(lambda w: w[0] not in ['абв'], text.split()))
 # print(result)
